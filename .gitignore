@@ -1,0 +1,4 @@
+*.xbkp
+*.fseq
+Backup/
+RenderCache/
